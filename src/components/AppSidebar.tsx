@@ -40,7 +40,7 @@ export function AppSidebar() {
         </div>
         {!collapsed && (
           <div className="animate-slide-in overflow-hidden">
-            <h1 className="text-sm font-bold text-sidebar-accent-foreground tracking-tight leading-none">
+            <h1 className="text-sm font-bold text-foreground tracking-tight leading-none">
               FoodOps
             </h1>
             <p className="text-[10px] text-sidebar-foreground mt-0.5">Manufacturing</p>
